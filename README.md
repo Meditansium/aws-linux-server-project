@@ -1,2 +1,22 @@
-# aws-linux-server-project
-My first AWS and GitHub beginner cloud project
+# AWS Linux Server Project
+
+My first beginner cloud project using:
+
+- AWS
+- Linux
+- GitHub
+
+## Goal
+
+Learning cloud and GitHub fundamentals step by step.
+
+## Skills
+
+- Linux basics
+- Networking
+- GitHub basics
+- Cloud fundamentals
+
+## Status
+
+Project started.
